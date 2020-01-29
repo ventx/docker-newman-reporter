@@ -16,7 +16,7 @@ LABEL maintainer="hajo@ventx.de" \
 
 
 RUN apt-get update && \
-    git \
+    apt-get install git -y \
  && rm -rf /var/lib/apt/lists/*
 
 RUN npm i -g newman-reporter-confluence && \
