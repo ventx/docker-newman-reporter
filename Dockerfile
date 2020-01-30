@@ -22,6 +22,6 @@ RUN apt-get update && \
 RUN npm i -g newman-reporter-confluence && \
     npm i -g newman-reporter-junitxray && \
     npm i -g newman-reporter-htmlextra && \
-    npm i -g newman-reporter-slack-fancy
+    npm i -g npm install newman-reporter-slack
 
 CMD [ "newman", "-v" ]
