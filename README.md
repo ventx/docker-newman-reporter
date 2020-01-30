@@ -24,4 +24,4 @@ Docker image based on `postman/newman:ubuntu` and various newman-reporter plugin
 * [newman-reporter-confluence](https://www.npmjs.com/package/newman-reporter-confluence)
 * [newman-reporter-junitxray](https://www.npmjs.com/package/newman-reporter-junitxray)
 * [newman-reporter-htmlextra](https://www.npmjs.com/package/newman-reporter-htmlextra)
-* [newman-reporter-slack-fancy](https://www.npmjs.com/package/newman-reporter-slack-fancy)
+* [newman-reporter-slack](https://www.npmjs.com/package/newman-reporter-slack-fancy)
